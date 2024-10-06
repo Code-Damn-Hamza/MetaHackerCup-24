@@ -24,8 +24,7 @@ To run the solutions, follow these steps:
     python subway_sonic.py
     python substitution_cipher.py
     ```
-3. Sample Input and Output files
-    No sample files are included due to their large sizes
+3. No sample files are included due to their large sizes
     
 ## Dependencies
 No additional dependencies are required.
